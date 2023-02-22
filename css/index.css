@@ -12,6 +12,7 @@ header{
 	padding-bottom: 25px ;
 }
 
+/*header styles */
 
 header h1{
 	color: #FFD700;
@@ -32,6 +33,8 @@ header img{
     border: 10px solid #FFD700;
 }
 
+/* main styles */
+
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -42,14 +45,19 @@ main img{
 	max-width: 100%;
 }
 
+/* styles for action */
+
 a{
 	color: #191970;
 }
+/* make it change color when hover over it */
 
 a:hover{
 	background-color: #000080;
 	color: #FFD700;
 }
+
+/* footer styling */
 
 footer{
 	background-color: #191970;
@@ -70,6 +78,8 @@ footer a:hover{
 	opacity: .5;
 	background-color: transparent;
 }
+
+/* styling the p caption class */
 
 p.caption{
 	color: #4682B4;
